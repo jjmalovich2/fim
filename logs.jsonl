@@ -1,0 +1,5 @@
+{"details":"Loaded existing baseline from disk.","event_type":"READY","file":"SYSTEM","severity":"INFO","timestamp":1778651997}
+{"details":"Monitoring started on directory: src","event_type":"START","file":"SYSTEM","severity":"INFO","timestamp":1778651997}
+{"details":"New file detected and hashed.","event_type":"CREATED","file":"src/virus.cpp","severity":"LOW","timestamp":1778652028}
+{"details":"Baseline: 2e4a1eff9b103351b4ee791279ee70d561fbef1936d250aec7789a615888380b | Current: 3c13ebfc6a8ed30566b5b191b203acea0141c207dc094670b51eec84b6fa1145","event_type":"MODIFIED","file":"src/virus.cpp","severity":"CRITICAL","timestamp":1778652063}
+{"details":"File was removed from disk.","event_type":"DELETED","file":"src/virus.cpp","severity":"CRITICAL","timestamp":1778652092}
